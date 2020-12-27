@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseWork20", "CourseWork20.csproj", "{20364C6F-A2C8-4F3C-B728-A485E09E8551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Debug|x64.ActiveCfg = Debug|x64
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Debug|x64.Build.0 = Debug|x64
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Release|x64.ActiveCfg = Release|x64
+		{20364C6F-A2C8-4F3C-B728-A485E09E8551}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AB4C0F-0F5E-455D-824C-A31CE3E13161}
+	EndGlobalSection
+EndGlobal
